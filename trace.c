@@ -17,7 +17,7 @@ int main(){
              t=t+a[i][j];
                 }
                }
-      printf("\ntrace of the matrix = %d",t);
+      printf("\nTrace of the matrix = %d",t);
             }
       else
            printf("\nNo diagonal elements");
