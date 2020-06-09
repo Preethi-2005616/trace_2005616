@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-    int a[10][10],t,i,j,r,c;
+    int a[100][100],t,i,j,r,c;
     printf("enter the order of matrix\n");
     scanf("%d%d",&r,&c);
     printf("enter the values\n");
